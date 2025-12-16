@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|c:\\users\\predator\\source\\repos\\dotnetlab3\\dotnetlab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|solutionrelative:dotnetlab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|c:\\users\\predator\\source\\repos\\dotnetlab3\\dotnetlab3\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|solutionrelative:dotnetlab3\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|c:\\users\\predator\\source\\repos\\dotnetlab3\\dotnetlab3\\extendeddictionaryelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|solutionrelative:dotnetlab3\\extendeddictionaryelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|c:\\users\\predator\\source\\repos\\dotnetlab3\\dotnetlab3\\extendeddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8371F-5AC0-42A0-9257-EDC6379EC14D}|DotNetLab3\\DotNetLab3.csproj|solutionrelative:dotnetlab3\\extendeddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtendedDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\ExtendedDictionary.cs",
+              "RelativeDocumentMoniker": "DotNetLab3\\ExtendedDictionary.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\ExtendedDictionary.cs",
+              "RelativeToolTip": "DotNetLab3\\ExtendedDictionary.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:25:40.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetLab3\\Program.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\Program.cs",
+              "RelativeToolTip": "DotNetLab3\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:18:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtendedDictionaryElement.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\ExtendedDictionaryElement.cs",
+              "RelativeDocumentMoniker": "DotNetLab3\\ExtendedDictionaryElement.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\ExtendedDictionaryElement.cs",
+              "RelativeToolTip": "DotNetLab3\\ExtendedDictionaryElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:25:12.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "DotNetLab3\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\DotNetLab3\\DotNetLab3\\ExtensionMethods.cs",
+              "RelativeToolTip": "DotNetLab3\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:24:16.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

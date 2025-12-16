@@ -1,0 +1,8 @@
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\bin\Debug\DotNetLab3.exe.config
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\bin\Debug\DotNetLab3.exe
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\bin\Debug\DotNetLab3.pdb
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\obj\Debug\DotNetLab3.csproj.AssemblyReference.cache
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\obj\Debug\DotNetLab3.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\obj\Debug\DotNetLab3.exe
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\obj\Debug\DotNetLab3.pdb
+C:\Users\Predator\source\repos\DotNetLab3\DotNetLab3\obj\Debug\DotNetLab3.exe.config
