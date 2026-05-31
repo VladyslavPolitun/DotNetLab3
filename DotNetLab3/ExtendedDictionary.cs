@@ -10,6 +10,9 @@ namespace DotNetLab3
 
         public void Add(T key, U value1, V value2)
         {
+            if (ContainsKey(key))
+                return;
+
             elements.Add(new ExtendedDictionaryElement<T, U, V>(key, value1, value2));
         }
 

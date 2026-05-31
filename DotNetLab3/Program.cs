@@ -7,6 +7,7 @@ namespace DotNetLab3
     {
         static void Main()
         {
+            ShowMessage();
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Група ІПЗ-24-3(2), Виконав: Політун Владислав\n");
@@ -48,6 +49,10 @@ namespace DotNetLab3
             {
                 Console.WriteLine($"{e.Key}: {e.Value1}, {e.Value2}");
             }
+        }
+        private static void ShowMessage()
+        {
+            Console.WriteLine("Демонстрація роботи програми");
         }
     }
 }
