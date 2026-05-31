@@ -10,6 +10,7 @@ namespace DotNetLab3
 
         public void Add(T key, U value1, V value2)
         {
+            // Prevent duplicate keys
             if (ContainsKey(key))
                 return;
 
