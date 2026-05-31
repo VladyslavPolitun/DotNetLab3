@@ -29,7 +29,9 @@ namespace DotNetLab3
 
         public bool ContainsKey(T key)
         {
-            return elements.Exists(e => e.Key.Equals(key));
+            return elements.Exists(
+                e => EqualityComparer<T>.Default.Equals(e.Key, key)
+            );
         }
 
         public bool ContainsValue(U value1, V value2)
